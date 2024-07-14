@@ -188,6 +188,7 @@ doc-build
 .rcc
 .pch
 .metadata
+build
 
 # Symbian build system generated files
 # ---------------------
